@@ -7,7 +7,7 @@ public class MyFirstJavaProgram {
 	
 	public static void main(String[] args) {
 		
-		// START HERE
+	System.out.println("Hello World");
 	
 		
 		
